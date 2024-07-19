@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #sadtalke
 #bucess/sadtalker:1
-mi-gpt-tts
+idootop/mi-gpt-tts:latest
+idootop/mi-gpt:latest
